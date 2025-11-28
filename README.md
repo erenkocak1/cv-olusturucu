@@ -4,8 +4,6 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş, modern arayüze sahip
 
 Kullanıcı dostu arayüzü ile bilgilerinizi girmenizi, fotoğraf eklemenizi ve tek tıkla **Türkçe karakter uyumlu, profesyonel bir PDF** çıktısı almanızı sağlar.
 
-![Ekran Görüntüsü](https://via.placeholder.com/800x500?text=Programin+Ekran+Goruntusunu+Buraya+Koy)
-*(Buraya programın ekran görüntüsünü eklerseniz harika olur)*
 
 ## ✨ Özellikler
 
@@ -42,5 +40,6 @@ Program open source olduğu ve geliştirici sertifikası ile imzalanmadığı i�
 > **Ek Bilgi > Yine de Çalıştır** seçeneğine tıklamanız yeterlidir.
 
 ---
+
 
 Bu proje MIT Lisansı ile sunulmuştur. İstediğiniz gibi geliştirip kullanabilirsiniz.
